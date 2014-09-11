@@ -1,0 +1,6 @@
+Ciduad : Medellin;Antioquia
+Cupon ;Promocion0;3500.0;1;Aplica sólo los martes de 2:00pm a 4:00pm;Compre un combo hamburguesa y reciba un combo infantil
+Cupon ;Promocion1;3500.0;2;Aplica sólo los martes de 2:00pm a 4:00pm;Compre un combo hamburguesa y reciba un combo infantil
+Cupon ;Promocion2;3500.0;3;Aplica sólo los martes de 2:00pm a 4:00pm;Compre un combo hamburguesa y reciba un combo infantil
+Cupon ;Promocion3;3500.0;4;Aplica sólo los martes de 2:00pm a 4:00pm;Compre un combo hamburguesa y reciba un combo infantil
+Cupon ;Promocion4;3500.0;5;Aplica sólo los martes de 2:00pm a 4:00pm;Compre un combo hamburguesa y reciba un combo infantil

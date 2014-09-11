@@ -1,0 +1,15 @@
+Ciudad: Ciudad0;Departamento0
+Ciudad: Ciudad1;Departamento1
+Cupon;Nombre0;0.0;0;Condiciones0;Descripción0
+Ciudad: Ciudad2;Departamento2
+Cupon;Nombre0;0.0;0;Condiciones0;Descripción0
+Cupon;Nombre1;1.0;1;Condiciones1;Descripción1
+Ciudad: Ciudad3;Departamento3
+Cupon;Nombre0;0.0;0;Condiciones0;Descripción0
+Cupon;Nombre1;1.0;1;Condiciones1;Descripción1
+Cupon;Nombre2;2.0;2;Condiciones2;Descripción2
+Ciudad: Ciudad4;Departamento4
+Cupon;Nombre0;0.0;0;Condiciones0;Descripción0
+Cupon;Nombre1;1.0;1;Condiciones1;Descripción1
+Cupon;Nombre2;2.0;2;Condiciones2;Descripción2
+Cupon;Nombre3;3.0;3;Condiciones3;Descripción3
