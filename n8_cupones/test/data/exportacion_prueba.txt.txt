@@ -1,5 +1,0 @@
-Ciduad : Ciudad0;Departamento0
-Ciduad : Ciudad1;Departamento1
-Ciduad : Ciudad2;Departamento2
-Ciduad : Ciudad3;Departamento3
-Ciduad : Ciudad4;Departamento4
