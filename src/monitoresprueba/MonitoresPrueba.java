@@ -24,7 +24,7 @@ public class MonitoresPrueba {
         
     }
     
-     public void jajaja2()
+     public void jaj()
     {
         
     }
