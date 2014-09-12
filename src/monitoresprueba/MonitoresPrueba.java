@@ -19,7 +19,7 @@ public class MonitoresPrueba {
     }
     
     
-    public void comer()
+    public void jajaja()
     {
         
     }
