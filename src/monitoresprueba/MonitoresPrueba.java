@@ -24,4 +24,9 @@ public class MonitoresPrueba {
         
     }
     
+     public void jajaja2()
+    {
+        
+    }
+    
 }
